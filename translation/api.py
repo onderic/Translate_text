@@ -13,11 +13,12 @@ def translate(request):
         translation_request = TranslationRequest(text=text, language=language)
         translation = translation_request.perform_translation()
 
-        
-        #Optional to Create a new instance of Translation model
-        translation_obj = Translation(source_text=text, translated_text=translation, source_language=language)
+        print("Translation:", translation)
 
-        # Save the translation object to the database
-        translation_obj.save()
+        # Optional to create a new instance of Translation model
+        # translation_obj = Translation(source_text=text, translated_text=translation, source_language=language)
+        # translation_obj.save()
+
+        # print("Translation saved to database")
 
         return JsonResponse({"translation": translation})

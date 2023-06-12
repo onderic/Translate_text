@@ -12,9 +12,9 @@ class TranslationRequest(models.Model):
 
 
 class Translation(models.Model):
-    source_text = models.TextField()
-    translated_text = models.TextField()
-    source_language = models.CharField(max_length=50)
+    source_text = models.TextField(null=True, blank=True)
+    translated_text = models.TextField(null=True, blank=True)
+    source_language = models.CharField(max_length=50,null=True, blank=True)
 
     def __str__(self):
         return f'{self.source_language}: {self.source_text} -> {self.translated_text}'

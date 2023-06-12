@@ -1,0 +1,101 @@
+[
+    {
+      "code": "sw",
+      "name": "Swahili",
+      "words": ["neno", "msamiati", "maneno", "lugha", "ufafanuzi"]
+    },
+    {
+      "code": "sw-KE",
+      "name": "Swahili (Kenya)",
+      "words": ["neno", "msamiati", "maneno", "lugha", "ufafanuzi"]
+    },
+    {
+      "code": "syr",
+      "name": "Syriac",
+      "words": ["ܡܡܠܠܐ", "ܟܠܬܐ", "ܠܘܓܐ", "ܡܝܬܐ", "ܕܦܠܛܐ"]
+    },
+    {
+      "code": "syr-SY",
+      "name": "Syriac (Syria)",
+      "words": ["ܡܡܠܠܐ", "ܟܠܬܐ", "ܠܘܓܐ", "ܡܝܬܐ", "ܕܦܠܛܐ"]
+    },
+    {
+      "code": "ta",
+      "name": "Tamil",
+      "words": ["வார்த்தை", "மொழி", "பேச்சு", "சொல்", "அகராதி"]
+    },
+    {
+      "code": "ta-IN",
+      "name": "Tamil (India)",
+      "words": ["வார்த்தை", "மொழி", "பேச்சு", "சொல்", "அகராதி"]
+    },
+    {
+      "code": "te",
+      "name": "Telugu",
+      "words": ["పదము", "భాష", "అర్థం", "మాట", "వ్యాఖ్య"]
+    },
+    {
+      "code": "te-IN",
+      "name": "Telugu (India)",
+      "words": ["పదము", "భాష", "అర్థం", "మాట", "వ్యాఖ్య"]
+    },
+    {
+      "code": "th",
+      "name": "Thai",
+      "words": ["คำ", "ภาษา", "คำพูด", "คำอธิบาย", "คำแปล"]
+    },
+    {
+      "code": "th-TH",
+      "name": "Thai (Thailand)",
+      "words": ["คำ", "ภาษา", "คำพูด", "คำอธิบาย", "คำแปล"]
+    },
+    {
+      "code": "tl",
+      "name": "Tagalog",
+      "words": ["salita", "wika", "pagsasalita", "paglalarawan", "pagsasalin"]
+    },
+    
+    {
+        "code": "ru",
+        "name": "Russian",
+        "words": ["слово", "язык", "говорить", "описание", "перевод"]
+    },
+    {
+        "code": "rw",
+        "name": "Kinyarwanda",
+        "words": ["icyongereza", "ururimi", "amagambo", "igisubizo", "kwiyandikisha"]
+    },
+    {
+        "code": "sa",
+        "name": "Sanskrit",
+        "words": ["शब्दः", "भाषा", "वाक्यं", "व्याख्या", "अनुवादः"]
+    },
+    {
+        "code": "sc",
+        "name": "Sardinian",
+        "words": ["paraula", "limba", "parlare", "descrizione", "traduttore"]
+    },
+    {
+        "code": "sd",
+        "name": "Sindhi",
+        "words": ["لفظ", "بولي", "ڪلما", "تفصيل", "ترجمو"]
+    },
+    {
+        "code": "se",
+        "name": "Northern Sango",
+        "words": ["oánna", "giella", "oahpaheaddji", "beasat", "gïele"]
+    },
+    {
+        "code": "si",
+        "name": "Sinhala",
+        "words": ["පද", "භාෂාව", "වචන", "විස්තරය", "පරිවර්තන"]
+    },
+    {
+        "code": "sk",
+        "name": "Slovak",
+        "words": ["slovo", "jazyk", "hovoriť", "popis", "preklad"]
+    }
+    
+      
+  ]
+  

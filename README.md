@@ -24,11 +24,12 @@ To run this application locally, follow these steps:
 
     cd ../backend
     pip install -r requirements.txt
-    Start the frontend development server:
 
-cd ../frontend
+## Start the frontend development server:
 
-npm run serve
+    cd ../frontend
+
+    npm run serve
 
 ## Start the backend server:
 

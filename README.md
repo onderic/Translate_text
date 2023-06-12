@@ -30,12 +30,12 @@ cd ../frontend
 
 npm run serve
 
-3 Start the backend server:
+## Start the backend server:
 
     cd ../backend
     python manage.py runserver
 
-4 Access the application in your web browser:
+## Access the application in your web browser:
 
     http://localhost:8080
 

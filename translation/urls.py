@@ -7,5 +7,5 @@ from . import api
 
 urlpatterns = [
     
-    path('translate/', api.get_translate, name='get_translate'),
+    path('translate/', api.translate, name='translate'),
 ]

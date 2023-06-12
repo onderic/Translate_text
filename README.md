@@ -12,17 +12,15 @@ This is a translation application built using Vue.js and Django Rest Framework. 
 
 To run this application locally, follow these steps:
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/onderic/Translate_text.git
+## Clone the repository:
+    git clone https://github.com/onderic/Translate_text.git
 
 
-2 Install the dependencies for the frontend (Vue.js):
+## Install the dependencies for the frontend (Vue.js):
 
     cd translation-app/frontend
     npm install
-3 Install the dependencies for the backend (Django Rest Framework):
+## Install the dependencies for the backend (Django Rest Framework):
 
     cd ../backend
     pip install -r requirements.txt
